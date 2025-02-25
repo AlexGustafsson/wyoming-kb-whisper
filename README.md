@@ -1,5 +1,14 @@
 # Wyoming KB Whisper
 
+> [!NOTE]
+> KB has now published first-party conversions of the models supporting
+> faster-whisper!
+>
+> You can therefore use rhasspy/wyoming-faster-whisper with the following
+> arguments:
+>
+> --model KBLab/kb-whisper-base --language sv --compute-type int8
+
 [Wyoming protocol](https://github.com/rhasspy/wyoming) server for
 [KBLab's Swedish whisper models](https://huggingface.co/collections/KBLab/kb-whisper-67af9eafb24da903b63cc4aa)
 
